@@ -10,7 +10,7 @@ import android.widget.ListView;
 public class Menu extends ListActivity {
 	
 	String classes[] = {
-							"startingPoint", "TextPlay", "example 2", "example 3", "example 4",
+							"startingPoint", "TextPlay", "Email", "example 3", "example 4",
 							"example 5", "example 6"
 						};
 
