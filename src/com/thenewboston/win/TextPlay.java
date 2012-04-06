@@ -22,7 +22,6 @@ public class TextPlay extends Activity implements View.OnClickListener {
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
-		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.text);
 		
@@ -33,7 +32,6 @@ public class TextPlay extends Activity implements View.OnClickListener {
 	}
 
 	private void baconAndEggs() {
-		// TODO Auto-generated method stub
 		chkCmd = (Button) findViewById(R.id.bResults);
 		passTog = (ToggleButton) findViewById(R.id.tbPassword);
 		input = (EditText) findViewById(R.id.etCommands);
